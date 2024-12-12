@@ -13,6 +13,7 @@ public class Calculator {
         Calculator.tim("Timur", "28.09.2010");
         Calculator.tim("Timofei", "06.09.2008");
         Calculator.tim("Konstantin", "10.01.1983");
+        Calculator.tim("Venera", "20.05.1985");
     }
 
 }
