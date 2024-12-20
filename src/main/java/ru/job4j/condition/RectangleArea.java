@@ -8,7 +8,7 @@ public class RectangleArea {
     }
 
     public static void main(String[] args) {
-        double result = RectangleArea.square(6, 2);
+        double result = RectangleArea.square(12, 2);
         System.out.println(result);
     }
 }
